@@ -1,0 +1,5 @@
+[14-Dec-2025 11:37:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/order/index.php:17
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/order/index.php(17): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/order/index.php on line 17

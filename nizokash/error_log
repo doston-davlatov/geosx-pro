@@ -1,0 +1,15 @@
+[14-Dec-2025 11:36:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/index.php:17
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/index.php(17): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/index.php on line 17
+[14-Dec-2025 11:52:01 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/view_nizo.php:8
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/view_nizo.php(8): PDO->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/view_nizo.php on line 8
+[15-Dec-2025 13:58:11 UTC] PHP Warning:  require_once(/home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash./connection/mysqli.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/index.php on line 17
+[15-Dec-2025 13:58:11 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash./connection/mysqli.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/nizokash/index.php on line 17

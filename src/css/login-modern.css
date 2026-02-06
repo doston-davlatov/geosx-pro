@@ -1,0 +1,15 @@
+/* .input-box box-icon → .box-icon */
+.input-box .box-icon {
+    position: absolute;
+    top: 50%;
+    right: 0;
+    font-size: 18px;
+    transform: translateY(-50%);
+    color: #fff;
+    transition: .5s;
+}
+
+.input-box input:focus ~ .box-icon,
+.input-box input:valid ~ .box-icon {
+    color: #e46033;
+}

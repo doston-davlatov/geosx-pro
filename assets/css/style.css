@@ -1,0 +1,9 @@
+body {
+  background: #f8f9fa;
+}
+#map {
+  width: 100%;
+  height: 90vh;
+  border-radius: 6px;
+  border: 1px solid #ccc;
+}

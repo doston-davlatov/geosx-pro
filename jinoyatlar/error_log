@@ -1,0 +1,50 @@
+[14-Dec-2025 11:27:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php(17): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[14-Dec-2025 11:28:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php(17): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[14-Dec-2025 11:35:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php(17): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[14-Dec-2025 11:39:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php(17): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[14-Dec-2025 11:50:00 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php:5
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php(5): PDO->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php on line 5
+[14-Dec-2025 11:51:21 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[28000] [1045] Access denied for user 'root'@'localhost' (using password: NO) in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php:5
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php(5): PDO->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php on line 5
+[15-Dec-2025 13:53:57 UTC] PHP Warning:  require_once(/home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar./connection/mysqli.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[15-Dec-2025 13:53:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar./connection/mysqli.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[15-Dec-2025 13:55:41 UTC] PHP Warning:  require_once(/home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/connection/mysqli.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[15-Dec-2025 13:55:41 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/connection/mysqli.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[15-Dec-2025 13:55:44 UTC] PHP Warning:  require_once(/home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/connection/mysqli.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[15-Dec-2025 13:55:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/connection/mysqli.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/index.php on line 17
+[15-Dec-2025 13:57:22 UTC] PHP Warning:  require_once(./connection/pdo.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php on line 5
+[15-Dec-2025 13:57:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required './connection/pdo.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/jinoyatlar/add_crime.php on line 5

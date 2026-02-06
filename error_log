@@ -1,0 +1,51 @@
+[14-Dec-2025 11:38:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php:15
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php on line 15
+[14-Dec-2025 11:58:24 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php:15
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php on line 15
+[14-Dec-2025 11:59:25 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Connection timed out in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php:15
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php(15): mysqli->__construct()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php on line 15
+[14-Dec-2025 11:59:34 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Column 'viloyat_id' in WHERE is ambiguous in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php:389
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php(389): mysqli->prepare()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php on line 389
+[15-Dec-2025 13:11:47 UTC] PHP Warning:  require_once(/home/qizilte7/geoxarita.qiziltepatakm.uz./connection/mysqli.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php on line 16
+[15-Dec-2025 13:11:47 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz./connection/mysqli.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php on line 16
+[15-Dec-2025 13:13:51 UTC] PHP Warning:  require(/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:13:51 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php:4
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php(16): require_once()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:21:31 UTC] PHP Warning:  require(/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:21:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php:4
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php(16): require_once()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:21:33 UTC] PHP Warning:  require(/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:21:33 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php:4
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php(16): require_once()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:42:00 UTC] PHP Warning:  require(/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php): Failed to open stream: No such file or directory in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 13:42:00 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/qizilte7/geoxarita.qiziltepatakm.uz/connection/../config/database.php' (include_path='.:/opt/alt/php83/usr/share/pear:/opt/alt/php83/usr/share/php:/usr/share/pear:/usr/share/php') in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php:4
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/index.php(16): require_once()
+#1 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/mysqli.php on line 4
+[15-Dec-2025 14:01:08 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php:254) in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php on line 580
+[06-Feb-2026 10:10:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php:254) in /home/qizilte7/geoxarita.qiziltepatakm.uz/dashboard.php on line 580

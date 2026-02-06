@@ -1,0 +1,126 @@
+[14-Dec-2025 07:38:53 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 07:38:55 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 07:38:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 07:38:57 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 07:38:58 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 07:38:59 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 07:51:12 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:04:17 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:04:18 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:04:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:04:39 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:21:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct('localhost', 'qizilte7_takm', Object(SensitiveParameterValue), 'qizilte7_uzb_gi...')
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 13:23:47 Asia/Tashkent] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 13:23:55 Asia/Tashkent] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:25:09 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:25:13 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:25:14 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:25:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:25:46 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:34:07 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
+[14-Dec-2025 08:34:10 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'qizilte7_takm'@'localhost' to database 'qizilte7_uzb_gis' in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php:13
+Stack trace:
+#0 /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php(13): mysqli->__construct()
+#1 /home/qizilte7/geoxarita.qiziltepatakm.uz/login/index.php(10): Database->__construct()
+#2 {main}
+  thrown in /home/qizilte7/geoxarita.qiziltepatakm.uz/connection/config.php on line 13
